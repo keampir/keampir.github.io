@@ -1,0 +1,10 @@
+---
+title: "Post-Quantum Secure Semantic Communication with Discrete Latent Representations"
+collection: publications
+permalink: /publication/2026-post-quantum-semantic
+excerpt: '本文提出了一种基于离散潜在表示的后量子安全语义通信框架。'
+date: 2026-01-01
+venue: 'IEEE Transactions on Information Forensics and Security (TIFS), early access'
+paperurl: 'https://doi.org/10.1109/TIFS.2026.3705320'
+citation: 'Peiyuan Si, Liangxin Qian, Renyang Liu, Jun Zhao, Kwok-Yan Lam, "Post-Quantum Secure Semantic Communication with Discrete Latent Representations," IEEE Transactions on Information Forensics and Security, early access, DOI: 10.1109/TIFS.2026.3705320.'
+---
