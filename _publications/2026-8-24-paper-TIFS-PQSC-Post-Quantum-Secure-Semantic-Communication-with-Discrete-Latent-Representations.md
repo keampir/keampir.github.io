@@ -1,7 +1,7 @@
 ---
 title: "test"
 collection: publications
-category: Journal Articles
+category: journal articles
 permalink: publications/2026-8-24-paper-TIFS-PQSC-Post-Quantum-Secure-Semantic-Communication-with-Discrete-Latent-Representations
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
